@@ -1,0 +1,320 @@
+{
+    "AAVEEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "ALGOEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "ANTEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "REPEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "REPV2EUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "BATEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "BALEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "XBTEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "BCHEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "ADAEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "LINKEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "COMPEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "ATOMEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "CRVEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "DAIEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "DASHEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "MANAEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "XDGEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "EOSEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "ETHEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "ETCEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "FILEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "GNOEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "ICXEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "KAVAEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "KEEPEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "KSMEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "KNCEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "LSKEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "LTCEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "MLNEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "XMREUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "NANOEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "OMGEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "OXTEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "PAXGEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "DOTEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "QTUMEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "XRPEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "SCEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "XLMEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "STORJEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "SNXEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "TBTCEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "USDTEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "XTZEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "GRTEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "TRXEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "UNIEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "USDCEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "WAVESEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "YFIEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    },
+    "ZECEUR": {
+        "high": [],
+        "low": [],
+        "close": [],
+        "prices": []
+    }
+}
