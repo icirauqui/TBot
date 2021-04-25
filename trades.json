@@ -1,0 +1,26 @@
+{
+    "XXBTZEUR": [
+        {
+            "time_stamp": "1619381758",
+            "price_eur": 41061.8,
+            "bought": true,
+            "sold": false,
+            "amount": 0.01217676
+        },
+        {
+            "time_stamp": "1619381788",
+            "price_eur": 41056.6,
+            "bought": false,
+            "sold": true,
+            "amount": 0.01217676
+        },
+        {
+            "time_stamp": "1619382179",
+            "price_eur": 41050.0,
+            "bought": true,
+            "sold": false,
+            "amount": 0.01217949
+        }
+    ],
+    "YFIEUR": []
+}
