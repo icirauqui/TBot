@@ -20,7 +20,43 @@
             "bought": true,
             "sold": false,
             "amount": 0.01217949
+        },
+        {
+            "time_stamp": "1619382487",
+            "price_eur": 41066.4,
+            "bought": false,
+            "sold": true,
+            "amount": 0.01217949
+        },
+        {
+            "time_stamp": "1619382579",
+            "price_eur": 41082.0,
+            "bought": true,
+            "sold": false,
+            "amount": 0.01217244
+        },
+        {
+            "time_stamp": "1619382733",
+            "price_eur": 41070.4,
+            "bought": false,
+            "sold": true,
+            "amount": 0.01217244
+        },
+        {
+            "time_stamp": "1619383010",
+            "price_eur": 41067.4,
+            "bought": true,
+            "sold": false,
+            "amount": 0.01217505
         }
     ],
-    "YFIEUR": []
+    "YFIEUR": [
+        {
+            "time_stamp": "1619382933",
+            "price_eur": 33220.0,
+            "bought": true,
+            "sold": false,
+            "amount": 0.0150511
+        }
+    ]
 }
