@@ -23,18 +23,19 @@ irange = 10
 jrange = 20
 krange = 50
 
+increment_i = 1
+increment_j = 3
+increment_k = 5
+
 ainttime = ['1m','2m','5m','15m','30m','60m','90m','1d']
-ainttime = ['1m','5m','15m']
 ainttime = ['5m']
-intperiod = '2d'
+intperiod = '30d'
 
 cryptos = ['YFI-EUR']
 cryptos = ['YFI-EUR','DOGE-EUR']
 cryptos = ['DOGE-EUR','YFI-EUR']
-#cryptos = ['XLM-EUR','YFI-EUR','BTC-EUR','DOGE-EUR']
-cryptos = ['YFI-EUR']
-cryptos = ['BTC-EUR']
-
+cryptos = ['XLM-EUR','YFI-EUR','BTC-EUR','DOGE-EUR']
+cryptos = ['SHIB-EUR']
 
 global balance 
 balance = {
@@ -226,9 +227,9 @@ if __name__ == '__main__':
         trades[crypto] = []
 
     pairs = []
-    for i in range(2,10):
-        for j in range(i+2,i+25):
-            for k in range(j+2,j+50):
+    for i in range(1,irange,increment_i):
+        for j in range(i+2,i+jrange,increment_j):
+            for k in range(j+2,j+krange,increment_k):
                 pairs.append([i,j,k])
 
     best = {}
